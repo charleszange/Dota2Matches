@@ -1,0 +1,9 @@
+2023:07:09::16:50:36:482110|ETL01_GetMatchResults.ipynb|Process started, libraries loaded
+2023:07:09::16:50:36:526166|ETL01_GetMatchResults.ipynb|Fetching public matches from opendota api
+2023:07:09::16:50:36:752515|ETL01_GetMatchResults.ipynb|Public match results fetched from opendota api
+2023:07:09::16:50:36:824954|ETL01_GetMatchResults.ipynb|Starting postgres connection
+2023:07:09::16:50:36:913759|ETL01_GetMatchResults.ipynb|Postgres connected
+2023:07:09::16:50:36:996766|ETL01_GetMatchResults.ipynb|Batch prepared with shape (61, 12), attempting to add to postgres
+2023:07:09::16:50:37:010762|ETL01_GetMatchResults.ipynb|Data loaded, committed to postgres
+2023:07:09::16:50:37:028069|ETL01_GetMatchResults.ipynb|Closed postgres connection
+2023:07:09::16:50:37:053201|ETL01_GetMatchResults.ipynb|Process ending
