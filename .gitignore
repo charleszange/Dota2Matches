@@ -136,3 +136,9 @@ dmypy.json
 
 # Config files
 *.config
+
+# CSV data
+*.csv
+
+# TXT data
+*.txt
